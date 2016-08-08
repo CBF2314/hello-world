@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-More changes go here...
+More changes go here.
